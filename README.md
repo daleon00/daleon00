@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @daleon00
+- 👀 I’m interested in programming, writing secure code
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
